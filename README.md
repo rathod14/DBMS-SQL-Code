@@ -1,2 +1,1 @@
-# Data-Administration-Concepts-and-Database-Management
-Data Administration Concepts and Database Management homework files
+Class Lab Assignments Data Administration Concepts and Database Management at Syracuse University
